@@ -548,7 +548,8 @@ body footer .container .form {
   gap: 10px;
 }
 body footer .container .form h2 {
-  color: #FE8900;
+  //color: #FE8900;
+  color:black;
   font-weight: 700;
 }
 body footer .container .form input {
@@ -559,7 +560,8 @@ body footer .container .form input {
   height: 30px;
   margin-top: 10px;
   padding: 5px;
-  color: #FE8900;
+  //color: #FE8900;
+  color:black;
   background-color: #eeecea;
 }
 body footer .container .form textarea {
@@ -568,7 +570,8 @@ body footer .container .form textarea {
   border-radius: 10px;
   margin-top: 10px;
   padding: 5px;
-  color: #FE8900;
+  //color: #FE8900;
+  color:black;
   border: none;
   background-color: #eeecea;
 }
