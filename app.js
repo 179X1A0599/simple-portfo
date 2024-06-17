@@ -24,7 +24,7 @@ navLinks.forEach(a => a.addEventListener('click', () => {
 //-------- for my type animation--------
 
 var typed = new Typed(".auto-type", {
-    strings: ["WEB DEVELOPER.", 'UI DESIGNER.', 'FREELANCER.', 'WEB DESIGNER.'], 
+    strings: ["DevOps Engineer.", 'Cloud Admin.', 'SRE.'], 
     typeSpeed: 150,
     backSpeed: 150,
     loop: true
