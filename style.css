@@ -548,10 +548,16 @@ body footer .container .form {
   gap: 10px;
 }
 body footer .container .form h2 {
+  color: #FE8900;
+  //color:black;
+  font-weight: 700;
+}
+body footer .container .form p {
   //color: #FE8900;
   color:black;
   font-weight: 700;
 }
+
 body footer .container .form input {
   width: 100%;
   border: none;
